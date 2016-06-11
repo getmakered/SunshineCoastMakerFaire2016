@@ -1,6 +1,6 @@
 Thanks for taking the time to get scanned at the GetMakered 3D Selfie Trailer at Sunshine Coast Maker Faire 2016 in Gibsons!
 
-The Scans we did of you were exported as .STL files and your 3D Selfie file can be found here:
+The Scans we did of you were exported as .STL files and can be found here:
 https://github.com/getmakered/SunshineCoastMakerFaire2016
 
 Let Us Print it for you!
@@ -10,11 +10,11 @@ http://buya3dselfie.strikingly.com/
 
 Print It Yourself!
 
-(1) Download your Scanned Images
+(1) Download Your Scan!
 
 The Scans are numbered and you should have received an email with your number. We do this to preserve the privacy of individuals.
 
-(2) Cleaning up Your Scanned Image
+(2) Cleaning Up Your Scanned Image.
 
 Most of your files are near perfect and will not have any issues, but if you see extra floaty bits in your scan or a hole in your head, you might want to clean the image up a bit.
 
